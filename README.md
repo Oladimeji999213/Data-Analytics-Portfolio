@@ -1,31 +1,43 @@
-# Telecom SQL Project 📞💻
+# Data Analytics Portfolio
 
-This repository contains SQL scripts and database structures designed for a telecommunications management system.
+### Oyewole Oladimeji Abdulqudus
 
-## 📁 File Included
-- telecom_project.sql: Contains table creation scripts, insert statements, and queries used to manage telecom customer data, service plans, usage records, billing, and performance.
+MSc Data Analytics student at Berlin School of Business and Innovation, with hands-on experience in data analysis, machine learning, and business intelligence across Nigeria and Germany.
 
-## 📊 Features Covered
-- Customer and subscription tracking
-- Call, SMS, and data usage records
-- Monthly billing and invoicing
-- Network performance logging
-- Advanced analytics and business queries using JOIN, COALESCE, GROUP BY, and subqueries
+This portfolio brings together academic projects and practical work covering the full data analytics pipeline: from data cleaning and exploration, through statistical analysis and machine learning, to interactive dashboards and storytelling with data.
 
-## 🛠 Technologies Used
-- MySQL
-- MySQL Workbench
+-----
 
-## 💡 Example Queries
-- Retrieve customer billing history
-- Identify high-value customers based on total usage
-- Analyze call drop and latency rates
-- Track monthly service usage patterns
+## Projects
 
-## 🔗 Author
-*Oladimeji999213*  
-GitHub Profile: [github.com/Oladimeji999213](https://github.com/Oladimeji999213)
+|# |Project                                                                 |Tools                                |Focus Area                          |
+|--|------------------------------------------------------------------------|-------------------------------------|------------------------------------|
+|01|[Social Media User Behaviour Analysis](./01_social_media_behaviour/)    |Python, Pandas, Scikit-learn, Seaborn|Clustering, EDA                     |
+|02|[Cryptocurrency Price Prediction](./02_cryptocurrency_price_prediction/)|Python, Scikit-learn, Matplotlib     |Predictive Modelling, Regression    |
+|03|[HR Analytics Dashboard](./03_hr_analytics_dashboard/)                  |Tableau                              |Data Visualisation, Storytelling    |
+|04|[Telecom SQL Analysis](./04_telecom_sql_analysis/)                      |SQL                                  |Database Querying, Business Analysis|
 
----
+-----
 
-📌 This project was built as part of a database system design and SQL assignment for telecommunications operations.
+## Technical Skills
+
+**Languages:** Python, SQL
+
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+**Tools:** Tableau, Power BI, Excel, Google Colab, Jupyter Notebook
+
+**Competencies:** Exploratory Data Analysis, Machine Learning, Data Visualisation, Dashboard Design, Statistical Analysis
+
+-----
+
+## Education
+
+**MSc Data Analytics** | Berlin School of Business and Innovation, Germany | 2024 - Present
+
+-----
+
+## Contact
+
+- GitHub: [Oladimeji999213](https://github.com/Oladimeji999213)
+- Location: Solingen, Berlin Germany
